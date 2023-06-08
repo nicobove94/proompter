@@ -22,7 +22,6 @@ This Python script interacts with the OpenAI GPT-4 API to help you rephrase a qu
 
 ## Usage
 
-In your terminal, navigate to the directory of the script and run:
-## python proompter.py "your question here"
+In your terminal, navigate to the directory of the script and run: __python proompter.py "your question here"__
 
 Replace `"your question here"` with the question you want to ask.
